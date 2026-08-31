@@ -1,4 +1,4 @@
-string[] parties = ["Red", "Blue", "Green"];
+string[] parties = ["Super Earth", "Nti-partiet", "Donald Duck", "Sleepy Joe"];
 int[] votes = new int[parties.Length];
 
 while (true)
